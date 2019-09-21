@@ -1,0 +1,12 @@
+@media(max-width: 670px) {
+
+.prologue h1{
+  font-size:50px;
+  width:1000px;
+}
+
+.prologue p{
+  font-size:35px;
+}
+
+}
